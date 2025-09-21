@@ -1,7 +1,5 @@
-
 # Directorios de compilación y dependencias
 
-/dist
 /out
 
 # Archivos y carpetas que Git debe IGNORAR
